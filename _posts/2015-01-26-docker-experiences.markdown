@@ -5,6 +5,8 @@ date: 2015-01-26T12:10:31+00:00
 comments: true
 ---
 
+Some thoughts on my experiences with docker.
+
 # Intro #
 
 Lately my friend convinced me to enter the Docker bandwagon, and for the last few days I've read about most of the tools on Docker out there. Turns out I should have started from the basics, although [tutum.co](https://tutum.co) seems very nice, once it is production-ready. [fig](http://fig.sh) and [dokku](http://dokku.com) also look cool.

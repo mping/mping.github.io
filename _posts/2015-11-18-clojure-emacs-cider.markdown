@@ -5,6 +5,7 @@ date: 2015-11-17T21:10:31+00:00
 comments: true
 ---
 
+Or, what you need to know before diving into clojure's REPL.
 
 # Intro #
 
