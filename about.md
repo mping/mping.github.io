@@ -8,8 +8,8 @@ Hi, I'm Miguel hailing from sunny Lisbon, Portugal.
 
 ### More Information
 
-Not much to add.
+https://github.com/mping
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[miguel.ping@gmail.com](mailto:miguel.ping@gmail.com)
